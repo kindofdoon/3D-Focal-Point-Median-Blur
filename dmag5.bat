@@ -1,0 +1,1 @@
+cmd.exe /k "C:\Users\Daniel\Desktop\stereoscopic_imaging\dmag5.exe"

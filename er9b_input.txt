@@ -1,0 +1,6 @@
+yacht_L.png
+yacht_R.png
+yacht_ER_L.png
+yacht_ER_R.png
+10000
+1000.0
